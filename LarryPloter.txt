@@ -1,3 +1,2 @@
-<<<<<<< HEAD
+
 Hola que tal Periquito
->>>>>>> Develop
